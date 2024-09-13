@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rosialys.github.io/sitemap.html.gz
+Sitemap: https://rosialys.github.io/app/sitemap.html.gz
+Sitemap: https://rosialys.github.io/assets/sitemap.html.gz
+Sitemap: https://rosialys.github.io/css/sitemap.html.gz
+Sitemap: https://rosialys.github.io/includes/sitemap.html.gz
+Sitemap: https://rosialys.github.io/item/sitemap.html.gz
+Sitemap: https://rosialys.github.io/src/sitemap.html.gz
